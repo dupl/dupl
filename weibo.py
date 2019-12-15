@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 #coding:utf-8
 from selenium import webdriver
 import getpass
@@ -6,11 +6,12 @@ import time
 import random
 passwd = getpass.getpass('Password:')
 browser = webdriver.Firefox()
+# browser = webdriver.Chrome()
 browser.get('https://weibo.com')
-time.sleep(4)
+time.sleep(12)
 #print browser.current_url
 uidElem = browser.find_element_by_id('loginname')
-uidElem.send_keys('18856034388')
+uidElem.send_keys('15569824912')
 passwordElem = browser.find_element_by_name('password')
 passwordElem.send_keys(passwd)
 #passwordElem.submit()
