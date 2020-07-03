@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/dupl/anaconda3/bin/python
 f=open('README.md','r')
 l=f.readlines()
 f.close()
