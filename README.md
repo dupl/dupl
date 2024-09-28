@@ -33,7 +33,7 @@ Hi, I'm Peng-Li Du, a passionate self-taught developer from China.
 </a>
 <a href="https://github.com/dupl">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupl&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupl&layout=donut&theme=radical" />
 </a>
 
 <a href="https://github.com/dupl/dupl">
@@ -44,3 +44,10 @@ Hi, I'm Peng-Li Du, a passionate self-taught developer from China.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dupl&repo=dupl.github.io&theme=radical" />
 </a>
+
+<!---
+![Peng-Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dupl&layout=donut&show_icons=true&theme=radical)
+![dupl Card](https://github-readme-stats.vercel.app/api/pin/?username=dupl&repo=dupl&show_icons=true&theme=radical)
+![dupl.github.io Card](https://github-readme-stats.vercel.app/api/pin/?username=dupl&repo=dupl.github.io&show_icons=true&theme=radical)
+--->
